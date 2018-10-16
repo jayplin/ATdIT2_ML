@@ -32,14 +32,17 @@ _5 points_
 Some numbers are more difficult to predict with KNN amd to cluster with K-means. 
 Show why. Start with examples, and get more general
 
-# E KNN and K-means CIFAR
+# E KNN and K-means CIFAR- in progress
 _5 points_
 
 transform cifar-10 to grayscale. 
+    -done
 
 - Does knn work similarly good?
+    -done
 - Does k-means work similarly good?
-- Demonstrate this similar to  B, C and D
+    -done
+- Demonstrate this similar to  B, C-done and D
 
 # F Linear regression BOSTON
 _5 points_
