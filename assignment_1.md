@@ -16,7 +16,7 @@ Do for k = 2, 4, 8
 
 - How does the choice of k influence the results?
 
-# C K-means MNIST -i
+# C K-means MNIST -i: done
 _4 points_
 
 - What is the majority class of each cluster? 
