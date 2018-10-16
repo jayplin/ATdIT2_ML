@@ -1,21 +1,22 @@
 
-# A KNN
+# A KNN -done
 _2 points_
 
 - How many distances you need to calculate if you have 60,000 samples in the trainingset for 50 samples? 
 - How many distances do you need to calculate if you have n samples im the trainingset?
 
-# B KNN MNIST
+# B KNN MNIST -in progress
 _3 points_
 
 - What is the error rate of KNN on the test set?
+    - done
 - What is the error rate for each label (number)?
 
 Do for k = 2, 4, 8
 
 - How does the choice of k influence the results?
 
-# C K-means MNIST
+# C K-means MNIST -i
 _4 points_
 
 - What is the majority class of each cluster? 
