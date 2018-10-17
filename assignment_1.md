@@ -44,7 +44,7 @@ transform cifar-10 to grayscale.
     -done
 - Demonstrate this similar to  B, C-done and D
 
-# F Linear regression BOSTON
+# F Linear regression BOSTON- done
 _5 points_
 
 Train a linear regression model on the BOSTON dataset to predict median values of houses. Test it on the test set.
