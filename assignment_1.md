@@ -5,7 +5,7 @@ _2 points_
 - How many distances you need to calculate if you have 60,000 samples in the trainingset for 50 samples? 
 - How many distances do you need to calculate if you have n samples im the trainingset?
 
-# B KNN MNIST -in progress
+# B KNN MNIST -done
 _3 points_
 
 - What is the error rate of KNN on the test set?
@@ -32,7 +32,7 @@ _5 points_
 Some numbers are more difficult to predict with KNN amd to cluster with K-means. 
 Show why. Start with examples, and get more general
 
-# E KNN and K-means CIFAR- in progress
+# E KNN and K-means CIFAR- done
 _5 points_
 
 transform cifar-10 to grayscale. 
