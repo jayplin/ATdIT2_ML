@@ -50,7 +50,7 @@ _5 points_
 Train a linear regression model on the BOSTON dataset to predict median values of houses. Test it on the test set.
 Show the code how you did it! What dependent variables (columns) have the biggest influence?
 
-# G Logistic regression MNIST
+# G Logistic regression MNIST -done
 _4 points_
 
 Evalute logistic regression as B  on MNIST
